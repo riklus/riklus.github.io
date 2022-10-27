@@ -3,22 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Riccardo Lussana's Homepage</title>
+  <link rel="stylesheet" type="text/css" href="assets/styles/home.css">
+  <title>{{site.name}}'s Homepage</title>
 </head>
 <body>
+  <header>
+    {% include navbar.liquid %}
+  </header>
+  <main>
   {{content}}
-  <h1>Here's some thoughts</h1>
-  <ul>
+  <h2>Here's some thoughts:</h2>
+  <ul id="list-posts">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <article>
+        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        {{post.excerpt}}
+      </article>
     </li>
   {% endfor %}
 </ul>
+</main>
 </body>
 </html>
-
-
-
-
-
