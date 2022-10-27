@@ -11,21 +11,32 @@ html {
 }
 
 main {
-  padding-left: 1.65em;
-  padding-right: 1.65em;
+  padding-left: 1.65rem;
+  padding-right: 1.65rem;
   margin-left: auto;
   margin-right: auto;
   max-width: 55ch;
+}
+
+h1,
+{
+  font-style: italic;
 }
 
 #list-posts {
   article {
     h1 {
       font-size: 1.2em;
+      margin-bottom: 0.2em;
+    }
+
+    p {
+      margin-top: 0.2em;
     }
   }
 
   li {
     list-style: none;
   }
+
 }

@@ -6,8 +6,7 @@ layout: my_home
 title: Home
 ---
 
-![Riccardo Lussana's Profile Picture](/assets/img/me.jpeg){:class="img-propic"}
-
+[![Riccardo Lussana's Profile Picture](/assets/img/me.jpeg){:class="img-propic"}](https://www.github.com/riklus)
 # Hi there! I'm Riccardo.
 
 I'm a Computer Science Bachelor at the University of Trento.
@@ -17,4 +16,5 @@ Currently in Erasmus at the Norwegian University of Science and Technology ðŸ‡³ð
 
 ## Contacts
 
-[LinkedIn](https://www.linkedin.com/in/riccardo-lussana/?locale=en_US)
+Email: [{{site.email}}](mailto:{{site.email}})  
+Socail: [LinkedIn](https://www.linkedin.com/in/riccardo-lussana/?locale=en_US) 
