@@ -17,4 +17,4 @@ Currently in Erasmus at the Norwegian University of Science and Technology ðŸ‡³ð
 ## Contacts
 
 Email: [{{site.email}}](mailto:{{site.email}})  
-Socail: [LinkedIn](https://www.linkedin.com/in/riccardo-lussana/?locale=en_US) 
+Social: [LinkedIn](https://www.linkedin.com/in/riccardo-lussana/?locale=en_US) 
