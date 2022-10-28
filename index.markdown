@@ -13,12 +13,17 @@ description:  >-
 [![Riccardo Lussana's Profile Picture](/assets/img/me.jpeg){:class="img-propic"}](https://www.github.com/riklus)
 # Hi there! I'm Riccardo.
 
-I'm a Computer Science Bachelor at the University of Trento.
+I'm a Computer Science Bachelor at the University of Trento.  
+[Look at my Curriculum Vitae](/assets/CV.pdf)
+{:class="center"}
 
 ## At the moment
 Currently in Erasmus at the Norwegian University of Science and Technology 🇳🇴
 
 ## Contacts
 
-Email: [{{site.email}}](mailto:{{site.email}})  
-Social: [LinkedIn](https://www.linkedin.com/in/riccardo-lussana/?locale=en_US) 
+Email: [{{site.email}}](mailto:{{site.email}})
+
+Other:
+- [LinkedIn](https://www.linkedin.com/in/riccardo-lussana/?locale=en_US) 
+- [GitHub](https://www.github.com/riklus) 
