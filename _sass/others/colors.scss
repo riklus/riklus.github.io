@@ -1,0 +1,19 @@
+@media (prefers-color-scheme: light) {
+  :root {
+    --main-bg-color: white;
+    --main-text-color: black;
+    --main-link-color: #1648d5;
+    --main-link-hover-color: #091d57;
+    --main-divider-color: black;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --main-bg-color: black;
+    --main-text-color: white;
+    --main-link-color: #88a4f7;
+    --main-link-hover-color: #5279ed;
+    --main-divider-color: white;
+  }
+}

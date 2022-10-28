@@ -1,18 +1,19 @@
 @import "normalize";
+@import "colors";
 
 :link {
 	font-weight: bold;
 	text-decoration: none;
-	color: #1648d5;
+	color: var(--main-link-color);
 }
 
 :visited {
-	color: #1648d5;
+	color: var(--main-link-color);
 }
 
 a:hover {
 	text-decoration: underline;
-	color: #091d57;
+	color: var(--main-link-hover-color);
 }
 
 ol,
@@ -26,12 +27,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 600;
-  margin-bottom: 0.4em;
+	font-weight: 600;
+	margin-bottom: 0.4em;
 }
 
 html {
-  line-height: 1.2;
+	line-height: 1.2;
+	background-color: var(--main-bg-color);
+	color: var(--main-text-color);
 }
 
 :is(h2, h3, h4, h5, h6)+p {
