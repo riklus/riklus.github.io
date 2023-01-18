@@ -18,7 +18,7 @@ I'm a Computer Science Bachelor at the University of Trento.
 {:class="center"}
 
 ## At the moment
-Currently in Erasmus at the Norwegian University of Science and Technology 🇳🇴
+Currently in Italy pursuing my Bachelor Degree in Computer Science!
 
 ## Contacts
 
